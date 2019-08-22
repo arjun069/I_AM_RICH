@@ -1,4 +1,4 @@
-# timer_try_1
+# I AM RICH
 
 A new I AM RICH Flutter application.
 
