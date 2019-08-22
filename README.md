@@ -1,6 +1,6 @@
 # timer_try_1
 
-A new TIMER Flutter application.
+A new I AM RICH Flutter application.
 
 ## Getting Started
 
